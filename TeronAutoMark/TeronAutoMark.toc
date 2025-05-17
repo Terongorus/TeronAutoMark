@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: Teron AutoMark Tool
-## Notes: ---
+## Notes: An addon which automatically marks the currently targeted enemy or friend.
 ## Author: Teron
 ## Version: v1.0.1
 
