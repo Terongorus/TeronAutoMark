@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Teron AutoMark Tool
+## Notes: ---
+## Author: Teron
+## Version: v1.0.1
+
+TeronAutoMark.lua
